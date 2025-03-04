@@ -1,3 +1,3 @@
-# Prodigy_ML_02
+# Purchase History
 
-Question: Create a K-Mean Clustering algorithm to group customers of a retail store basedon their purchase history
+Aim: Create a K-Mean Clustering algorithm to group customers of a retail store basedon their purchase history
